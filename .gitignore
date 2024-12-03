@@ -1,0 +1,3 @@
+# Remove any *.meta entries from your .gitignore
+# Add this line instead:
+!*.meta

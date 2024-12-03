@@ -19,11 +19,11 @@ The **Game View Recorder & Jira Integration Tool** is a Unity Editor extension d
 To access the Game View Recorder:
 1. Navigate to `Tools > ASU DSL > Game View Recorder` in the Unity Editor menu.
 
-   ![Menu Access Placeholder](./Assets/Resources/Images/game_view_recorder_dropdown.png)
+   ![Menu Access Placeholder](./Runtime/Resources/Images/game_view_recorder_dropdown.png)
 
 2. The **Game View Recorder** window will appear:
 
-   ![Recorder Editor Placeholder](./Assets/Resources/Images/game_view_recorder_window.png)
+   ![Recorder Editor Placeholder](./Runtime/Resources/Images/game_view_recorder_window.png)
 
 ### Recorder Settings
 The **Game View Recorder** interface includes:
@@ -53,7 +53,7 @@ The **Game View Recorder** interface includes:
 To configure Jira:
 1. Navigate to `Tools > ASU DSL > Configure Jira Instance`.
 
-   ![Jira Config Placeholder](.//Assets/Resources/Images/conf_jira_instance.png)
+   ![Jira Config Placeholder](./Runtime/Resources/Images/conf_jira_instance.png)
 
 2. Enter the following details:
    - **Jira Base URL**: The URL of your Jira instance (e.g., `https://yourcompany.jira.com`).
@@ -66,7 +66,7 @@ To configure Jira:
 To create a Jira issue:
 1. Navigate to `Tools > ASU DSL > Jira Issue Creator`.
 
-   ![Jira Menu Placeholder](./Assets/Resources/Images/jira_issue_creator.png)
+   ![Jira Menu Placeholder](./Runtime/Resources/Images/jira_issue_creator.png)
 
 2. The **Jira Issue Creator** interface includes:
    - **Title**: Provide a concise issue title.

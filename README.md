@@ -13,6 +13,13 @@ The **Game View Recorder & Jira Integration Tool** is a Unity Editor extension d
 
 ---
 
+## Unity Installation
+
+1. Open your Unity Package Manager
+2. Add package from git url: https://github.com/asu-dsl/qa-recording-tool.git
+   
+   ![Menu Access Placeholder](./Runtime/Resources/Images/add_package.png)
+
 ## Game View Recorder
 
 ### Accessing the Tool

@@ -1,0 +1,12 @@
+# Ignore everything
+/*
+
+# Except the Packages folder and specific package files
+!/Packages
+/Packages/*
+!/Packages/com.dslasu.qa/
+
+# Version control files
+!.gitignore
+!README.md
+!LICENSE.md

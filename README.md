@@ -86,4 +86,4 @@ To create a Jira issue:
 
 ---
 
-Feel free to suggest improvements or report issues directly in this repository. Placeholder screenshots will be replaced with finalized images in the upcoming release.
+Feel free to suggest improvements or report issues directly in this repository.
